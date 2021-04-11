@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  springapp:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2021-04-11T11:25:39.163053583Z"
+    description: A Helm chart for Naresh
+    digest: 904b10cce5b2be2eea92d1f196d2a39d42c740027fd65c9d8ff418a2ee9c0c4f
+    name: springapp
+    type: application
+    urls:
+    - https://naresh12-dev.github.io/Nareshhelmrepo/springapp-0.1.0.tgz
+    version: 0.1.0
+  springappapplication:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-11T11:25:39.16418411Z"
+    description: A Helm chart for Kubernetes
+    digest: 314409a5b89481853d346ffb42b587e68b8e2db68a6aacc5645af5c08e81031c
+    name: springappapplication
+    type: application
+    urls:
+    - https://naresh12-dev.github.io/Nareshhelmrepo/springappapplication-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-11T11:25:39.160696033Z"
